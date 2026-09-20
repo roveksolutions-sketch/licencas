@@ -13,10 +13,10 @@
       "assinatura": "20B80E09BE51"
     },
     "ECF6-11AC-BA6A": {
-      "ativa": false,
+      "ativa": true,
       "ate": "2026-09-20",
-      "nota": "Licença suspensa. Procure o responsável pelo sistema.",
-      "assinatura": "615B41C15EAF"
+      "nota": "",
+      "assinatura": "B4D236E85C32"
     }
   }
 }
