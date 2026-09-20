@@ -13,10 +13,10 @@
       "assinatura": "20B80E09BE51"
     },
     "6795-7629-4EF6": {
-      "ativa": false,
+      "ativa": true,
       "ate": "2026-09-20",
-      "nota": "Licença suspensa. Procure o responsável pelo sistema.",
-      "assinatura": "F94E07C360E2"
+      "nota": "",
+      "assinatura": "C965D6E8F3DF"
     }
   }
 }
